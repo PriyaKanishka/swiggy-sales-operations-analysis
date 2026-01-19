@@ -13,6 +13,12 @@ For a restaurant, analyzing orders on food aggregators like Swiggy is crucial fo
 - Inventory optimization recommendations based on sales trends  
 - Delivery performance tracking and operational improvement suggestions
 
+ ## Analysis Approach
+- Data prepared in Excel
+- Calculations and KPIs implemented directly in Tableau
+- Insights visualized via Tableau dashboards
+- Optional screenshots included in `results/` folder 
+
 ## Key Insights
 - Identify high-performing cuisines to manage inventory efficiently  
 - Spot underperforming areas in delivery or menu performance  
