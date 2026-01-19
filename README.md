@@ -3,6 +3,15 @@
 ## Business Context
 For a restaurant, analyzing orders on food aggregators like Swiggy is crucial for growth, customer loyalty, and operational efficiency. Restaurants need actionable insights on sales, inventory, and delivery performance to optimize their business.
 
+## Project Overview
+
+- Scenario-based analysis of Swiggy order data to improve restaurant sales, customer experience, and operational efficiency.
+- Evaluates cuisine performance, area-wise demand, and time-based trends to guide inventory planning and menu focus.
+- Models real-time sales tracking, inventory optimization, and delivery performance monitoring to identify improvement opportunities.
+- Uses Excel for data preparation and Tableau (with KPIs and calculations) to build interactive dashboards and visualize insights.
+- Highlights key insights such as high-performing cuisines, underperforming delivery or menu areas, and actions to reduce leftovers and operational costs.
+
+
 ## Decision to Be Made
 - Which cuisines are performing best and require sufficient inventory?  
 - Are there areas where delivery performance or kitchen efficiency can be improved?  
